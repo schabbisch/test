@@ -1,4 +1,4 @@
-![Image](https://github.com/schabbisch/test/blob/main/desastis.png)
+![Image](image)
 
 ## The most amateurish GitHub Page ever
 
