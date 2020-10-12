@@ -1,4 +1,6 @@
-## Welcome to GitHub Pages
+![Image](https://github.com/schabbisch/test/blob/main/desastis.png)
+
+## The most amateurish GitHub Page ever
 
 You can use the [editor on GitHub](https://github.com/schabbisch/test/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
@@ -23,7 +25,7 @@ Syntax highlighted code block
 
 **Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](https://github.com/schabbisch/test/blob/main/desastis.png)
+[Link](url) and 
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
